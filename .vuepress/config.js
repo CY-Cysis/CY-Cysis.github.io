@@ -1,6 +1,6 @@
 module.exports = {
-  "title": "demo",
-  "description": "demo",
+  "title": "Cysis仓库",
+  "description": "none",
   "dest":"docs/.vuepress/dist",
   "head": [
     [
